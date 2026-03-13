@@ -97,7 +97,7 @@ async def lifespan(app: FastAPI):
 
 app = FastAPI(
     title="Strategy Guardian AI",
-    description="AI-powered guardian for manual crypto traders. Monitor risk, detect emotional trading, validate strategy rules.",
+    description="AI-powered guardian for crypto traders. Monitor risk, detect emotional trading, validate strategy rules.",
     version="0.1.0",
     lifespan=lifespan,
 )
