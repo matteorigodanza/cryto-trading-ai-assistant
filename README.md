@@ -4,6 +4,8 @@
 
 Strategy Guardian AI monitors your trading in real time: it validates risk rules, detects emotional trading patterns, and enforces your strategy—without placing or closing any trades. Built for traders who want oversight and intelligence, not full automation.
 
+I can help you grow your profits, tailor the system to what you want, and support you in making your trading safer and more rewarding—with clear rules, risk controls, and ongoing guidance.
+
 ---
 
 ## Contact
